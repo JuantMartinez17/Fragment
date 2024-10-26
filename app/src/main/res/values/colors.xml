@@ -2,7 +2,7 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="fragmentListBackground">#FFC800</color>
+    <color name="fragmentListBackground">#7B9EA8</color>
     <color name="fragmentDetailBackground">#FF715B</color>
 
 </resources>
